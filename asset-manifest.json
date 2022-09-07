@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/mhr-SunbreakGacha/static/css/main.6fc74150.css",
-    "main.js": "/mhr-SunbreakGacha/static/js/main.020a603b.js",
+    "main.js": "/mhr-SunbreakGacha/static/js/main.0ea6157a.js",
     "static/js/787.24a203d5.chunk.js": "/mhr-SunbreakGacha/static/js/787.24a203d5.chunk.js",
     "static/media/top-line-img.png": "/mhr-SunbreakGacha/static/media/top-line-img.89fa4cf5e2ec3743a997.png",
     "static/media/bottom-line-img.png": "/mhr-SunbreakGacha/static/media/bottom-line-img.2c7450256a0fbc4b5f21.png",
     "static/media/trailer_flame.png": "/mhr-SunbreakGacha/static/media/trailer_flame.2b01a755dce174a8eb6c.png",
     "index.html": "/mhr-SunbreakGacha/index.html",
     "main.6fc74150.css.map": "/mhr-SunbreakGacha/static/css/main.6fc74150.css.map",
-    "main.020a603b.js.map": "/mhr-SunbreakGacha/static/js/main.020a603b.js.map",
+    "main.0ea6157a.js.map": "/mhr-SunbreakGacha/static/js/main.0ea6157a.js.map",
     "787.24a203d5.chunk.js.map": "/mhr-SunbreakGacha/static/js/787.24a203d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fc74150.css",
-    "static/js/main.020a603b.js"
+    "static/js/main.0ea6157a.js"
   ]
 }
